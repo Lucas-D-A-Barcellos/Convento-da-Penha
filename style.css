@@ -1,0 +1,17 @@
+.container{
+	width: 75%;
+}
+
+.template-padrao{
+	height: 500px;
+	width: 1200px;
+}
+
+.cartao{
+	display: flex;
+	width: 50%;
+}
+
+.contato a:hover{
+	transform: scale(1.1);
+}
